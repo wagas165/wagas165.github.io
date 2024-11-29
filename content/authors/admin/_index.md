@@ -61,7 +61,7 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: DetGNN: ADeterministic Feature-Enhanced Graph Neural Network for Modeling Higher-order Interactions
+  - title: "DetGNN: ADeterministic Feature-Enhanced Graph Neural Network for Modeling Higher-order Interactions"
     date: 2023-09-01
     summary: |
       Instructed by Wei Lin, Fudan University
@@ -69,7 +69,7 @@ awards:
       Broke the limitation of traditional information passing, enabling information exchange across multiple nodes and edges simultaneously, capturing higher-order interactions beyond direct adjacency.
       Provided a rigorous theoretical framework for handling randomness and uncertainty in complex networks.
       Wrote a paper and currently finalizing results for submission to ICML 2025.
-  - title: TimePhiBE: A Time-dependent PDE-Based Bellman Equation for Continuous-Time Policy Evaluation
+  - title: "TimePhiBE: A Time-dependent PDE-Based Bellman Equation for Continuous-Time Policy Evaluation"
     date: 2024-04-01
     summary: |
       Instructed by Yuhua Zhu, University of California, Los Angeles
