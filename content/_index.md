@@ -32,17 +32,19 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  - block: skills
+      is_education_first: true
+  - block: awards
     content:
-      title: Skills & Hobbies
-      username: admin
+      title: Research
+      username: admin 
   - block: awards
     content:
       title: Awards
       username: admin
-  - block: languages
+  - block: skills
     content:
-      title: Languages
+      title: Skills
       username: admin
+
+
 ---

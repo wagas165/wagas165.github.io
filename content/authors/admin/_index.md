@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yichi zhang
+title: Yichi Zhang
 
 # Name pronunciation (optional)
 # name_pronunciation: Yichi zhang
