@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张一弛
+title: Yichi zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Yichi zhang
+# name_pronunciation: Yichi zhang
 
 # Full name (for SEO)
 first_name: Yi Chi
