@@ -35,11 +35,7 @@ sections:
       is_education_first: true
   - block: awards
     content:
-      title: Research
-      username: admin 
-  - block: awards
-    content:
-      title: Awards
+      title: Research & Awards
       username: admin
   - block: skills
     content:
