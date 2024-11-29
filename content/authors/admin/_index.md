@@ -63,18 +63,18 @@ education:
 awards:
   - title: The ACM Mathematical Modeling Competition, First Prize
     #url: 
-    date: '2024'
+    date: 2024-01-01
     #awarder: Coursera
     #icon: coursera
     #summary: |
   - title: The National Innovation and Entrepreneurship Competition, Silver Award
-    date: '2024'
+    date: 2024-01-01
   - title:  The Fudan University’s First Excellence Cup, First Prize
-    date: '2024'
+    date: 2024-01-01
   - title: The National Natural Science Foundation Research Grant(180 nationwide), ¥100,000
-    date: '2024'
+    date: 2024-01-01
   - title:  FDUROP (Fudan’s Undergraduate Research Opportunities Program) Grant, ¥20,000
-    date: '2023'
+    date: 2023-01-01
 
 
 
