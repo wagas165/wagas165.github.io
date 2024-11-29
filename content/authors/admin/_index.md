@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张一弛
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yichi zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi Chi
+last_name: Zhang
 
 # Status emoji
 status:
@@ -17,156 +17,134 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+# role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+# organizations:
+#   - name: GenCoin
+#     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 'yichiz165@gmail.com'
+    label: yichiz165@gmail.com
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/wagas165
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S in Mathematics, Talent Program
+    institution: Fudan University
+    date_start: 2021-09-01
+    date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 3.65/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Key courses:
+      Mathematical Analysis, Advanced Algebra, Classical Mathematical Thoughts, Ordinary Differential Equations, 
+      Real Analysis(H), Mathematical Modeling, Functional Analysis(H), Equations of Mathematical Physics(H), 
+      Optimization, Stochastic Calculus for Finance, Stochastic Processes, Mathematical Statistics
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - area: Mathematics, Exchange Program
+    institution: University of California, Irvine
+    date_start: 2023-09-01
+    date_end: 2023-12-31
+    summary: |
+      GPA: 3.9/4.0
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+      Key courses:
+      Numerical Analysis, Probability Theory, Partial Differential Equations
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: The ACM Mathematical Modeling Competition, First Prize
+    #url: 
+    date: '2024'
+    #awarder: Coursera
+    #icon: coursera
+    #summary: |
+  - title: The National Innovation and Entrepreneurship Competition, Silver Award
+    date: '2024'
+  - title:  The Fudan University’s First Excellence Cup, First Prize
+    date: '2024'
+  - title: The National Natural Science Foundation Research Grant(180 nationwide), ¥100,000
+    date: '2024'
+  - title:  FDUROP (Fudan’s Undergraduate Research Opportunities Program) Grant, ¥20,000
+    date: '2023'
+
+
+
+work:
+  - position: Department of IT Development
+    company_name: Lingjun Investment
+    #company_url: ''
+    #company_logo: ''
+    date_start: 2023-04-01
+    date_end: 2023-07-31
+    summary: |2-
+      Responsible for the development and optimization of the trading system, integrating deep learning technology to significantly
+      improve trading efficiency. The annualized return rate of backtesting exceeded 20%, with the Sharpe ratio 0.7.
+  
+  - position: Leader
+    company_name: Volunteer Service Team
+    date_start: 2022-09-01
+    date_end: 2025-06-30
+    summary: |2-
+      solved math problems for students from different majors, with the total service time beyond 200 hours.
+  
+  - position: Head of TAs
+    company_name: Advanced Calculus
+    date_start: 2024-09-01
+    date_end: 2025-06-30
+    summary: |2-
+       Taught calculus tutorial classes to students from various majors, established an online QA platform.
+
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Languages
+    items:
+      - name: English
+        description: 'fluent, with 104 for TOEFL and 325 for GRE'
+        percent: 100
+        icon: person-simple-walk
+      - name: Chinese
+        description: 'native'
+        percent: 100
+        icon: person-simple-walk
+
+  - name: Programming Skills
+    items:
+      - name: Python
+        description: 'Proficient'
+        percent: 100
+        icon: devicon/python
+      - name: Matlab
+        description: ''
+        percent: 100
+        icon: devicon/matlab
+      - name: C
+        description: ''
+        percent: 100
+        icon: devicon/c
+
+  - name: Interests
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Neural Networks
+        description: 'Design of novel neural networks and optimization frameworks, especially in hypergraph neural networks, and the application of machine learning in various fields'
+        percent: 100
+        icon: person-simple-walk
+
+
+
+
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Self introduction placeholder
