@@ -64,19 +64,19 @@ awards:
   - title: "DetGNN: ADeterministic Feature-Enhanced Graph Neural Network for Modeling Higher-order Interactions"
     date: 2023-09-01
     summary: |
-      Instructed by Wei Lin, Fudan University
-      Introducd deterministic features that improve prediction accuracy and established a new paradigm for modeling and predicting complex systems.
-      Broke the limitation of traditional information passing, enabling information exchange across multiple nodes and edges simultaneously, capturing higher-order interactions beyond direct adjacency.
-      Provided a rigorous theoretical framework for handling randomness and uncertainty in complex networks.
-      Wrote a paper and currently finalizing results for submission to ICML 2025.
+      - Instructed by Wei Lin, Fudan University. 
+      - Introducd deterministic features that improve prediction accuracy and established a new paradigm for modeling and predicting complex systems. 
+      - Broke the limitation of traditional information passing, enabling information exchange across multiple nodes and edges - simultaneously, capturing higher-order interactions beyond direct adjacency. 
+      - Provided a rigorous theoretical framework for handling randomness and uncertainty in complex networks. 
+      - Wrote a paper and currently finalizing results for submission to ICML 2025. 
   - title: "TimePhiBE: A Time-dependent PDE-Based Bellman Equation for Continuous-Time Policy Evaluation"
     date: 2024-04-01
     summary: |
-      Instructed by Yuhua Zhu, University of California, Los Angeles
-      Developed a time-dependent PDE-based framework that generalizes existing policy evaluation methods to handle dynamic, time-varying systems in reinforcement learning, including scenarios with discount factors.
-      Provided rigorous theoretical guarantees, including error bounds and high-order approximations for both deterministic and stochastic cases.
-      Demonstrated the framework’s value in generalizing to diverse dynamic scenarios and its superior accuracy.
-      Wrote a paper and currently finalizing results for submission to NeurIPS 2025.
+      - Instructed by Yuhua Zhu, University of California, Los Angeles. 
+      - Developed a time-dependent PDE-based framework that generalizes existing policy evaluation methods to handle dynamic, time-varying systems in reinforcement learning, including scenarios with discount factors. 
+      - Provided rigorous theoretical guarantees, including error bounds and high-order approximations for both deterministic and stochastic cases. 
+      - Demonstrated the framework’s value in generalizing to diverse dynamic scenarios and its superior accuracy. 
+      - Wrote a paper and currently finalizing results for submission to NeurIPS 2025. 
       
   - title: The ACM Mathematical Modeling Competition, First Prize
     #url: 
