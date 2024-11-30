@@ -33,92 +33,57 @@ profiles:
   - icon: brands/github
     url: https://github.com/wagas165
 
+
 education:
-  - area: B.S in Mathematics, Talent Program
-    institution: Fudan University
+  - area: Fudan University
+    institution: B.S in Mathematics, Talent Program
     date_start: 2021-09-01
     date_end: 2025-06-30
     summary: |
-      GPA: 3.65/4.0
+      - GPA: 3.65/4.0 (overall)
+      - Key courses (all A- or A): Mathematical Analysis, Advanced Algebra, Classical Mathematical Thoughts , Ordinary Differential Equations, Real Analysis(H), Mathematical Modeling, Functional Analysis(H), Equations of Mathematical Physics(H), Optimization, Stochastic Calculus for Finance, Stochastic Processes, Mathematical Statistics.
+      - Outstanding student of Fudan University and Fudan University Undergraduate Scholarship twice.
 
-      Key courses:
-      Mathematical Analysis, Advanced Algebra, Classical Mathematical Thoughts, Ordinary Differential Equations, 
-      Real Analysis(H), Mathematical Modeling, Functional Analysis(H), Equations of Mathematical Physics(H), 
-      Optimization, Stochastic Calculus for Finance, Stochastic Processes, Mathematical Statistics
-
-  - area: Mathematics, Exchange Program
-    institution: University of California, Irvine
+  - area: University of California, Irvine
+    institution: Mathematics, Exchange Program
     date_start: 2023-09-01
     date_end: 2023-12-31
     summary: |
-      GPA: 3.9/4.0
-
-      Key courses:
-      Numerical Analysis, Probability Theory, Partial Differential Equations
+      - GPA: 3.9/4.0, Dean’s Honor List
+      - Key courses: Numerical Analysis, Probability Theory, Partial Differential Equations
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: "DetGNN: ADeterministic Feature-Enhanced Graph Neural Network for Modeling Higher-order Interactions"
-    date: 2023-09-01
-    summary: |
-      - Instructed by Wei Lin, Fudan University. 
-      - Introducd deterministic features that improve prediction accuracy and established a new paradigm for modeling and predicting complex systems. 
-      - Broke the limitation of traditional information passing, enabling information exchange across multiple nodes and edges - simultaneously, capturing higher-order interactions beyond direct adjacency. 
-      - Provided a rigorous theoretical framework for handling randomness and uncertainty in complex networks. 
-      - Wrote a paper and currently finalizing results for submission to ICML 2025. 
-  - title: "TimePhiBE: A Time-dependent PDE-Based Bellman Equation for Continuous-Time Policy Evaluation"
-    date: 2024-04-01
-    summary: |
-      - Instructed by Yuhua Zhu, University of California, Los Angeles. 
-      - Developed a time-dependent PDE-based framework that generalizes existing policy evaluation methods to handle dynamic, time-varying systems in reinforcement learning, including scenarios with discount factors. 
-      - Provided rigorous theoretical guarantees, including error bounds and high-order approximations for both deterministic and stochastic cases. 
-      - Demonstrated the framework’s value in generalizing to diverse dynamic scenarios and its superior accuracy. 
-      - Wrote a paper and currently finalizing results for submission to NeurIPS 2025. 
-      
   - title: The ACM Mathematical Modeling Competition, First Prize
     #url: 
     date: 2024-01-01
     #awarder: Coursera
     #icon: coursera
     #summary: |
-  - title: The National Innovation and Entrepreneurship Competition, Silver Award
+
+  - title: The National Innovation Challenge Cup, Silver Award
     date: 2024-01-01
-  - title:  The Fudan University’s First Excellence Cup, First Prize
+
+  - title: The National Mathematical Competition, Third Prize
+    date: 2022-01-01
+
+  - title: The National Innovation and Entrepreneurship Competition, Bronze Award
     date: 2024-01-01
-  - title: The National Natural Science Foundation Research Grant(180 nationwide), ¥100,000
+
+  - title: The Fudan University’s First Excellence Cup, First Prize
     date: 2024-01-01
-  - title:  FDUROP (Fudan’s Undergraduate Research Opportunities Program) Grant, ¥20,000
+
+  - title: The Fudan University’s First Undergraduate Research Cup, Second Prize
+    date: 2024-01-01
+  
+  - title: The National Natural Science Foundation Research Grant(180 nationwide), PI, ¥100,000
+    date: 2024-01-01
+  
+  - title: FDUROP (Fudan’s Undergraduate Research Opportunities Program) Grant, PI, ¥20,000
     date: 2023-01-01
-
-
-
-work:
-  - position: Department of IT Development
-    company_name: Lingjun Investment
-    #company_url: ''
-    #company_logo: ''
-    date_start: 2023-04-01
-    date_end: 2023-07-31
-    summary: |2-
-      Responsible for the development and optimization of the trading system, integrating deep learning technology to significantly
-      improve trading efficiency. The annualized return rate of backtesting exceeded 20%, with the Sharpe ratio 0.7.
-  
-  - position: Leader
-    company_name: Volunteer Service Team
-    date_start: 2022-09-01
-    date_end: 2025-06-30
-    summary: |2-
-      solved math problems for students from different majors, with the total service time beyond 200 hours.
-  
-  - position: Head of TAs
-    company_name: Advanced Calculus
-    date_start: 2024-09-01
-    date_end: 2025-06-30
-    summary: |2-
-       Taught calculus tutorial classes to students from various majors, established an online QA platform.
 
 
 # Skills
@@ -127,13 +92,13 @@ skills:
   - name: Languages
     items:
       - name: English
-        description: 'fluent, with 104 for TOEFL and 325 for GRE'
+        description: 'fluent, with 104 for TOEFL'
         percent: 100
-        icon: person-simple-walk
+        icon: chats-circle
       - name: Chinese
         description: 'native'
         percent: 100
-        icon: person-simple-walk
+        icon: house-line
 
   - name: Programming Skills
     items:
@@ -150,18 +115,16 @@ skills:
         percent: 100
         icon: devicon/c
 
-  - name: Interests
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Neural Networks
-        description: 'Design of novel neural networks and optimization frameworks, especially in hypergraph neural networks, and the application of machine learning in various fields'
-        percent: 100
-        icon: person-simple-walk
-
 
 
 
 ---
 
-Self introduction placeholder
+I am a senior undergraduate student in the Mathematics Talent Program at Fudan University and a Research Assistant at the Research Institute of Intelligent Complex Systems.
+My research focuses on developing frameworks that bridge model-driven and data-driven approaches in complex systems. I am particularly interested in optimization and machine learning methods for dynamical systems, with an emphasis on combining physical principles with neural network architectures to enhance system modeling and control.
+
+## RESEARCH INTEREST
+
+ - Neural Network
+ - Optimization
+ - Applied Machine Learning

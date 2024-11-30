@@ -7,9 +7,13 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Blog
-    url: blog/
+
+  - name: Research
+    url: research/
     weight: 20
-  - name: Uses
-    url: uses/
+
+  - name: Intern
+    url: intern/
     weight: 30
+
+
