@@ -19,7 +19,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Résumé
-        url: uploads/resume_yichizhang.pdf
+        url: uploads/CV_for_application_25_fall_yichizhang.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
